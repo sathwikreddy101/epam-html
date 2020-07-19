@@ -1,0 +1,9 @@
+.form-container
+{
+   border:solid #FFF000;
+   padding: 30px;
+   margin-top:20vh;
+   border-radius:0px ;
+   background:linear-gradient(-45deg,#EE7752,#E73C7E,#23A6D5,#23D5AB);
+   box-shadow: 0px 0px 10px 0px #000;
+}
